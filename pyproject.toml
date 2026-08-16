@@ -1,8 +1,0 @@
-[project]
-name = "xlearn"
-version = "0.1.0"
-requires-python = ">=3.10"
-dependencies = [
-    "numpy>=2.2.6",
-    "scipy>=1.15.3",
-]
